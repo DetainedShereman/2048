@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\SCREAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DB4649-D509-B6D5-C5C1-C39EED1795C5}|Assembly-CSharp.csproj|C:\\Users\\user\\SCREAM\\assets\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DB4649-D509-B6D5-C5C1-C39EED1795C5}|Assembly-CSharp.csproj|solutionrelative:assets\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DB4649-D509-B6D5-C5C1-C39EED1795C5}|Assembly-CSharp.csproj|C:\\Users\\user\\SCREAM\\assets\\cell\\cellview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DB4649-D509-B6D5-C5C1-C39EED1795C5}|Assembly-CSharp.csproj|solutionrelative:assets\\cell\\cellview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DB4649-D509-B6D5-C5C1-C39EED1795C5}|Assembly-CSharp.csproj|C:\\Users\\user\\SCREAM\\assets\\cell\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DB4649-D509-B6D5-C5C1-C39EED1795C5}|Assembly-CSharp.csproj|solutionrelative:assets\\cell\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DB4649-D509-B6D5-C5C1-C39EED1795C5}|Assembly-CSharp.csproj|c:\\users\\user\\scream\\assets\\gamefield\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DB4649-D509-B6D5-C5C1-C39EED1795C5}|Assembly-CSharp.csproj|solutionrelative:assets\\gamefield\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\SCREAM\\Assets\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\user\\SCREAM\\Assets\\InputHandler.cs",
+              "RelativeToolTip": "Assets\\InputHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:08:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\user\\SCREAM\\Assets\\Cell\\Cell.cs",
+              "RelativeDocumentMoniker": "Assets\\Cell\\Cell.cs",
+              "ToolTip": "C:\\Users\\user\\SCREAM\\Assets\\Cell\\Cell.cs",
+              "RelativeToolTip": "Assets\\Cell\\Cell.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwCgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:06:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CellView.cs",
+              "DocumentMoniker": "C:\\Users\\user\\SCREAM\\Assets\\Cell\\CellView.cs",
+              "RelativeDocumentMoniker": "Assets\\Cell\\CellView.cs",
+              "ToolTip": "C:\\Users\\user\\SCREAM\\Assets\\Cell\\CellView.cs",
+              "RelativeToolTip": "Assets\\Cell\\CellView.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:04:32.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameField.cs",
+              "DocumentMoniker": "C:\\Users\\user\\SCREAM\\Assets\\GameField\\GameField.cs",
+              "RelativeDocumentMoniker": "Assets\\GameField\\GameField.cs",
+              "ToolTip": "C:\\Users\\user\\SCREAM\\Assets\\GameField\\GameField.cs",
+              "RelativeToolTip": "Assets\\GameField\\GameField.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAcwLMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T19:13:56.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

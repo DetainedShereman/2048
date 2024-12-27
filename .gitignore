@@ -1,0 +1,31 @@
+# Unity-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider files
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Crash reports
+*.stackdump
+
+# Packed Unity plugin assets
+*.unitypackage
+
+# OS-specific files
+.DS_Store
+Thumbs.db
